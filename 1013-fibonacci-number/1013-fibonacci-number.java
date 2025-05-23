@@ -1,15 +1,14 @@
 class Solution {
     public int fib(int n) {
-        int DAT[] = new int[40];
-        if(n<2){
+        if(n<=1){
             return n;
         }
-        else{
-            if(DAT[n]==0){
-                DAT[n]=fib(n-1)+fib(n-2);
-                return DAT[n];
-            }
+        int DAT[] = new int[n+1];
+        DAT[0]=0;
+        DAT[1]=1;
+        for(int i=2;i<=n;i++){
+            DAT[i]=DAT[i-1]+DAT[i-2];
         }
-        return 0;
+        return DAT[n];
     }
 }
