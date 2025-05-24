@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0058-length-of-last-word](https://github.com/AyShakya/Daily_Leetcode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/AyShakya/Daily_Leetcode/tree/master/0125-valid-palindrome) |
+| [3194-find-words-containing-character](https://github.com/AyShakya/Daily_Leetcode/tree/master/3194-find-words-containing-character) |
 ## Array
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/AyShakya/Daily_Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/AyShakya/Daily_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0283-move-zeroes](https://github.com/AyShakya/Daily_Leetcode/tree/master/0283-move-zeroes) |
+| [3194-find-words-containing-character](https://github.com/AyShakya/Daily_Leetcode/tree/master/3194-find-words-containing-character) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AyShakya/Daily_Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/AyShakya/Daily_Leetcode/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/AyShakya/Daily_Leetcode/tree/master/3639-zero-array-transformation-i) |
