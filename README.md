@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/AyShakya/Daily_Leetcode/tree/master/0258-add-digits) |
 | [0342-power-of-four](https://github.com/AyShakya/Daily_Leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/AyShakya/Daily_Leetcode/tree/master/1013-fibonacci-number) |
 | [3321-type-of-triangle](https://github.com/AyShakya/Daily_Leetcode/tree/master/3321-type-of-triangle) |
@@ -113,4 +114,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AyShakya/Daily_Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/AyShakya/Daily_Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
