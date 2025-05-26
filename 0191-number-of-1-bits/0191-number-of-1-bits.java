@@ -1,9 +1,10 @@
 class Solution {
     public int hammingWeight(int n) {
-        String value = Integer.toBinaryString(n);
-        int count = 0;
-        for(int i=0;i<value.length();i++){
-            if(value.charAt(i)=='1'){
+        int count=0;
+        while(n>0){
+            int r=n%2;
+            n=n/2;
+            if(r==1){
                 count++;
             }
         }
