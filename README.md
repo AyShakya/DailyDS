@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/AyShakya/Daily_Leetcode/tree/master/0228-summary-ranges) |
 | [0283-move-zeroes](https://github.com/AyShakya/Daily_Leetcode/tree/master/0283-move-zeroes) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/AyShakya/Daily_Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2159-two-out-of-three](https://github.com/AyShakya/Daily_Leetcode/tree/master/2159-two-out-of-three) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AyShakya/Daily_Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3194-find-words-containing-character](https://github.com/AyShakya/Daily_Leetcode/tree/master/3194-find-words-containing-character) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AyShakya/Daily_Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/AyShakya/Daily_Leetcode/tree/master/0409-longest-palindrome) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AyShakya/Daily_Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/AyShakya/Daily_Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2159-two-out-of-three](https://github.com/AyShakya/Daily_Leetcode/tree/master/2159-two-out-of-three) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AyShakya/Daily_Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 ## Matrix
 |  |
@@ -112,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/AyShakya/Daily_Leetcode/tree/master/0191-number-of-1-bits) |
 | [0342-power-of-four](https://github.com/AyShakya/Daily_Leetcode/tree/master/0342-power-of-four) |
+| [2159-two-out-of-three](https://github.com/AyShakya/Daily_Leetcode/tree/master/2159-two-out-of-three) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AyShakya/Daily_Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Linked List
 |  |
