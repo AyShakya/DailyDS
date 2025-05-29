@@ -64,10 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/AyShakya/Daily_Leetcode/tree/master/0207-course-schedule) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/0112-path-sum) |
+| [0207-course-schedule](https://github.com/AyShakya/Daily_Leetcode/tree/master/0207-course-schedule) |
 ## Binary Tree
 |  |
 | ------- |
@@ -180,4 +182,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/AyShakya/Daily_Leetcode/tree/master/0187-repeated-dna-sequences) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/AyShakya/Daily_Leetcode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/AyShakya/Daily_Leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
