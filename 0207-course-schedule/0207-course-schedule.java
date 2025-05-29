@@ -29,7 +29,7 @@ class Solution {
         for (int[] edge : prerequisites) {
             int a = edge[0];
             int b = edge[1];
-            Adj[b].add(a); // b → a (must finish b before a)
+            Adj[b].add(a); 
         }
         for (int i = 0; i < numCourses; i++) {
             if (status[i] == 0) {
