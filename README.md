@@ -66,12 +66,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/AyShakya/Daily_Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0210-course-schedule-ii) |
+| [2121-find-if-path-exists-in-graph](https://github.com/AyShakya/Daily_Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0112-path-sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/0112-path-sum) |
 | [0207-course-schedule](https://github.com/AyShakya/Daily_Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0210-course-schedule-ii) |
+| [2121-find-if-path-exists-in-graph](https://github.com/AyShakya/Daily_Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -189,9 +191,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/AyShakya/Daily_Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0210-course-schedule-ii) |
+| [2121-find-if-path-exists-in-graph](https://github.com/AyShakya/Daily_Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AyShakya/Daily_Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0210-course-schedule-ii) |
+## Union Find
+|  |
+| ------- |
+| [2121-find-if-path-exists-in-graph](https://github.com/AyShakya/Daily_Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
