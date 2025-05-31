@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/0001-two-sum) |
 | [0045-jump-game-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AyShakya/Daily_Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/AyShakya/Daily_Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/AyShakya/Daily_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0187-repeated-dna-sequences](https://github.com/AyShakya/Daily_Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/AyShakya/Daily_Leetcode/tree/master/0205-isomorphic-strings) |
