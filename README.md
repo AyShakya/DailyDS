@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/AyShakya/Daily_Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/AyShakya/Daily_Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AyShakya/Daily_Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AyShakya/Daily_Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3194-find-words-containing-character](https://github.com/AyShakya/Daily_Leetcode/tree/master/3194-find-words-containing-character) |
 ## Array
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2190-count-common-words-with-one-occurrence](https://github.com/AyShakya/Daily_Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AyShakya/Daily_Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AyShakya/Daily_Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Matrix
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/AyShakya/Daily_Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2190-count-common-words-with-one-occurrence](https://github.com/AyShakya/Daily_Leetcode/tree/master/2190-count-common-words-with-one-occurrence) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AyShakya/Daily_Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AyShakya/Daily_Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Divide and Conquer
 |  |
 | ------- |
