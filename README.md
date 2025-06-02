@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/AyShakya/Daily_Leetcode/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AyShakya/Daily_Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/AyShakya/Daily_Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/0015-3sum) |
+| [0031-next-permutation](https://github.com/AyShakya/Daily_Leetcode/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/AyShakya/Daily_Leetcode/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/AyShakya/Daily_Leetcode/tree/master/0283-move-zeroes) |
 ## Recursion
