@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/AyShakya/Daily_Leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/AyShakya/Daily_Leetcode/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/AyShakya/Daily_Leetcode/tree/master/0415-add-strings) |
+| [0492-construct-the-rectangle](https://github.com/AyShakya/Daily_Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/AyShakya/Daily_Leetcode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/AyShakya/Daily_Leetcode/tree/master/1013-fibonacci-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AyShakya/Daily_Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
