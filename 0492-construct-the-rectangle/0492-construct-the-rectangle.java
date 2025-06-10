@@ -7,7 +7,7 @@ class Solution {
             return A;
         }
         int minlen = Integer.MAX_VALUE, L=0, W=0;
-        for(int i=1;i<=area/2;i++){
+        for(int i=1;i<=Math.sqrt(area);i++){
             if(area%i==0){
                 int a=area/i;
                 int b=i;
