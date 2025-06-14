@@ -21,13 +21,13 @@ class Solution {
         Arrays.sort(a);
         Arrays.sort(b);
         int alice=0, bob=0;
-        Map<Integer, Integer> map = new HashMap<>();
+        Set<Integer> bs = new HashSet<>();
         for(int i : a){
             alice+=i;
         }
         for(int i : b){
             bob+=i;
-            map.put(i, map.getOrDefault(i, 0)+1);
+            bs.add(i);
         }
         // for(int k=1;k<=diff;k++){
         //     int i = k;
@@ -40,7 +40,7 @@ class Solution {
         // }
         for(int i : a){
             int j = (bob - alice +2*i)/2;
-            if(map.containsKey(j)){
+            if(bs.contains(j)){
                 return new int[] {i,j};
             }
         }
