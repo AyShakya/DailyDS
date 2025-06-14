@@ -1,49 +1,35 @@
 class Solution {
     public int minMaxDifference(int num) {
-        int[] digits = String.valueOf(num).chars().map(c -> c-'0').toArray();
-        int[] max = Arrays.copyOf(digits, digits.length);
-        int[] min = Arrays.copyOf(digits, digits.length);
-        int digmax=-1,digmin=-1,res=0,nmin=0,nmax=0, n = digits.length;
-        for(int i=0;i<n;i++){
-            if(digits[i]==9){
-                continue;
+        String s = String.valueOf(num);
+        int n1=9, n2=0;
+        for(int i=0;i<s.length();i++){
+            if(n1==9 && s.charAt(i)!='9'){
+                n1=s.charAt(i) - '0';
+            }
+            if(n2==0 && s.charAt(i)!='0'){
+                n2=s.charAt(i) - '0';
+            }
+        }
+        int rem=0;
+        StringBuilder res = new StringBuilder();
+        while(num!=0){
+            int a = num%10;
+            int b = num%10;
+            if(n1==a) a=9;
+            if(n2==b) b=0;
+
+            int k = a-b-rem;
+            if(k<0){
+                k=10-k;
+                rem=-1;
             }
             else{
-                digmax=digits[i];
-                break;
+                rem=0;
             }
+
+            res.append(k);
+            num/=10;
         }
-        if(digmax==-1){
-            digmax=9;
-        }
-        for(int i=0;i<n;i++){
-            if(digits[i]==0){
-                continue;
-            }
-            else{
-                digmin=digits[i];
-                break;
-            }
-        }
-        if(digmin==-1){
-            digmin=0;
-        }
-        for(int i=0;i<n;i++){
-            if(max[i]==digmax){
-                max[i]=9;
-            }
-        }       
-        for(int i=0;i<n;i++){
-            if(min[i]==digmin){
-                min[i]=0;
-            }
-        }
-        for(int i=0;i<n;i++){
-            nmin=nmin*10 + min[i];
-        }
-        for(int i=0;i<n;i++){
-            nmax=nmax*10 + max[i];
-        }
-        return nmax-nmin;
+        return Integer.valueOf(res.reverse().toString());
     }
 }
