@@ -11,7 +11,12 @@ class Solution {
         for(int rowIndex = 0; rowIndex < mat.length; rowIndex++){
             int sum=0;
             for(int val : mat[rowIndex]){
-                sum+=val;
+                if(val==1){
+                    sum+=val;
+                }
+                else{
+                    break;
+                }
             }
             cal.add(new Pair(sum, rowIndex));
         }
