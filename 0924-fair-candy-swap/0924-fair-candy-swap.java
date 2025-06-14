@@ -18,8 +18,8 @@ class Solution {
     //     return false;
     // }
     public int[] fairCandySwap(int[] a, int[] b) {
-        Arrays.sort(a);
-        Arrays.sort(b);
+        // Arrays.sort(a);
+        // Arrays.sort(b);
         int alice=0, bob=0;
         Set<Integer> bs = new HashSet<>();
         for(int i : a){
