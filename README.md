@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/AyShakya/Daily_Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AyShakya/Daily_Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3194-find-words-containing-character](https://github.com/AyShakya/Daily_Leetcode/tree/master/3194-find-words-containing-character) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/AyShakya/Daily_Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AyShakya/Daily_Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/AyShakya/Daily_Leetcode/tree/master/3321-type-of-triangle) |
 | [3639-zero-array-transformation-i](https://github.com/AyShakya/Daily_Leetcode/tree/master/3639-zero-array-transformation-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AyShakya/Daily_Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AyShakya/Daily_Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/AyShakya/Daily_Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AyShakya/Daily_Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/AyShakya/Daily_Leetcode/tree/master/3321-type-of-triangle) |
 ## Prefix Sum
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AyShakya/Daily_Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/AyShakya/Daily_Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AyShakya/Daily_Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/AyShakya/Daily_Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AyShakya/Daily_Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Two Pointers
 |  |
