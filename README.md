@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/AyShakya/Daily_Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/AyShakya/Daily_Leetcode/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/AyShakya/Daily_Leetcode/tree/master/0058-length-of-last-word) |
+| [0071-simplify-path](https://github.com/AyShakya/Daily_Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/AyShakya/Daily_Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AyShakya/Daily_Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/AyShakya/Daily_Leetcode/tree/master/0168-excel-sheet-column-title) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/AyShakya/Daily_Leetcode/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AyShakya/Daily_Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0739-daily-temperatures](https://github.com/AyShakya/Daily_Leetcode/tree/master/0739-daily-temperatures) |
 | [1078-remove-outermost-parentheses](https://github.com/AyShakya/Daily_Leetcode/tree/master/1078-remove-outermost-parentheses) |
