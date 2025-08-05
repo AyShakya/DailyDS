@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/AyShakya/Daily_Leetcode/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/AyShakya/Daily_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/AyShakya/Daily_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AyShakya/Daily_Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/AyShakya/Daily_Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AyShakya/Daily_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/AyShakya/Daily_Leetcode/tree/master/0055-jump-game) |
 | [1013-fibonacci-number](https://github.com/AyShakya/Daily_Leetcode/tree/master/1013-fibonacci-number) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0016-3sum-closest](https://github.com/AyShakya/Daily_Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/AyShakya/Daily_Leetcode/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/AyShakya/Daily_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/AyShakya/Daily_Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AyShakya/Daily_Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AyShakya/Daily_Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -258,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AyShakya/Daily_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0071-simplify-path](https://github.com/AyShakya/Daily_Leetcode/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AyShakya/Daily_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AyShakya/Daily_Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -268,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/AyShakya/Daily_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AyShakya/Daily_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AyShakya/Daily_Leetcode/tree/master/0739-daily-temperatures) |
