@@ -1,20 +1,27 @@
 class Solution {
     public int trap(int[] nums) {
         int n = nums.length;
-        int prefixSum[] = new int[n];
-        int suffixSum[] = new int[n];
-        prefixSum[0] = nums[0];
-        suffixSum[n-1] = nums[n-1];
-        for(int i=1;i<n;i++){
-            prefixSum[i] = Math.max(prefixSum[i-1], nums[i]);
-        }
-        for(int i=n-2;i>=0;i--){
-            suffixSum[i] = Math.max(suffixSum[i+1], nums[i]);
-        }
         int total = 0;
-        for(int i=0;i<n;i++){
-            if(nums[i]<prefixSum[i] && nums[i]<suffixSum[i]){
-                total += Math.min(prefixSum[i], suffixSum[i]) - nums[i];
+        int lmax = 0, rmax = 0;
+        int l = 0, r = n-1;
+        while(l<r){
+            if(nums[l]<=nums[r]){
+                if(lmax>nums[l]){
+                    total+=lmax-nums[l];
+                }
+                else{
+                    lmax=nums[l];
+                }
+                l++;
+            }
+            else{
+                if(rmax>nums[r]){
+                    total +=rmax-nums[r];
+                }
+                else{
+                    rmax=nums[r];
+                }
+                r--;
             }
         }
         return total;
