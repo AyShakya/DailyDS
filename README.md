@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/AyShakya/Daily_Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0482-license-key-formatting](https://github.com/AyShakya/Daily_Leetcode/tree/master/0482-license-key-formatting) |
 | [1078-remove-outermost-parentheses](https://github.com/AyShakya/Daily_Leetcode/tree/master/1078-remove-outermost-parentheses) |
+| [1666-make-the-string-great](https://github.com/AyShakya/Daily_Leetcode/tree/master/1666-make-the-string-great) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/AyShakya/Daily_Leetcode/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AyShakya/Daily_Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/AyShakya/Daily_Leetcode/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -274,6 +275,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/AyShakya/Daily_Leetcode/tree/master/0739-daily-temperatures) |
 | [1078-remove-outermost-parentheses](https://github.com/AyShakya/Daily_Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AyShakya/Daily_Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
+| [1666-make-the-string-great](https://github.com/AyShakya/Daily_Leetcode/tree/master/1666-make-the-string-great) |
 | [2573-remove-nodes-from-linked-list](https://github.com/AyShakya/Daily_Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
