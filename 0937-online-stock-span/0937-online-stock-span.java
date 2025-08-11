@@ -6,7 +6,7 @@ class Pair {
     }
 }
 class StockSpanner {
-    Deque<Pair> dq = new LinkedList<>();
+    Deque<Pair> dq = new ArrayDeque<>();
     int ind = -1;
     public StockSpanner() {
         ind = -1;
