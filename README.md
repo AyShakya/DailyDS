@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0171-excel-sheet-column-number](https://github.com/AyShakya/Daily_Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/AyShakya/Daily_Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/AyShakya/Daily_Leetcode/tree/master/0205-isomorphic-strings) |
+| [0394-decode-string](https://github.com/AyShakya/Daily_Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/AyShakya/Daily_Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/AyShakya/Daily_Leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/AyShakya/Daily_Leetcode/tree/master/0412-fizz-buzz) |
@@ -254,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0342-power-of-four](https://github.com/AyShakya/Daily_Leetcode/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/AyShakya/Daily_Leetcode/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/AyShakya/Daily_Leetcode/tree/master/1013-fibonacci-number) |
 | [2573-remove-nodes-from-linked-list](https://github.com/AyShakya/Daily_Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Memoization
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/AyShakya/Daily_Leetcode/tree/master/0085-maximal-rectangle) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/AyShakya/Daily_Leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/AyShakya/Daily_Leetcode/tree/master/0155-min-stack) |
+| [0394-decode-string](https://github.com/AyShakya/Daily_Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/AyShakya/Daily_Leetcode/tree/master/0402-remove-k-digits) |
 | [0503-next-greater-element-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AyShakya/Daily_Leetcode/tree/master/0735-asteroid-collision) |
