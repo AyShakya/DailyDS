@@ -1,33 +1,12 @@
 class Solution {
     public int minimumArrayLength(int[] nums) {
-        Arrays.sort(nums);
-        Deque<Integer> dq = new ArrayDeque<>();
-        for (int num : nums) {
-            dq.addLast(num);
+        int s=nums[0];
+        for(int a:nums) s=Math.min(s,a);
+        int count=0;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]%s!=0) return 1;
+            if(nums[i]==s) count++;
         }
-        int c=0;
-        while (dq.size() > 1) {
-            int a = dq.pollFirst();   
-            int b = dq.pollLast();    
-            int r1 = a % b;
-            int r2 = b % a;
-            int res;
-            if (r1 == 0 && r2 == 0) {
-                res = 0;
-            } else if (r1 == 0) {
-                res = r2;
-            } else if (r2 == 0) {
-                res = r1;
-            } else {
-                res = Math.min(r1, r2);
-            }
-            if (res == 0) {
-                c++;
-            }
-            else{
-                dq.addFirst(res);
-            }
-        }
-        return dq.size()+c;
+        return (count+1)/2;
     }
 }
