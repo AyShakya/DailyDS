@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/AyShakya/Daily_Leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/AyShakya/Daily_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/AyShakya/Daily_Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AyShakya/Daily_Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/AyShakya/Daily_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AyShakya/Daily_Leetcode/tree/master/0075-sort-colors) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/AyShakya/Daily_Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/AyShakya/Daily_Leetcode/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0045-jump-game-ii) |
+| [0053-maximum-subarray](https://github.com/AyShakya/Daily_Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AyShakya/Daily_Leetcode/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/AyShakya/Daily_Leetcode/tree/master/0085-maximal-rectangle) |
 | [0943-sum-of-subarray-minimums](https://github.com/AyShakya/Daily_Leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AyShakya/Daily_Leetcode/tree/master/0053-maximum-subarray) |
 | [0191-number-of-1-bits](https://github.com/AyShakya/Daily_Leetcode/tree/master/0191-number-of-1-bits) |
 ## Heap (Priority Queue)
 |  |
