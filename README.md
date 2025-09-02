@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/AyShakya/Daily_Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AyShakya/Daily_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/AyShakya/Daily_Leetcode/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/AyShakya/Daily_Leetcode/tree/master/0456-132-pattern) |
 | [0463-island-perimeter](https://github.com/AyShakya/Daily_Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/AyShakya/Daily_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0495-teemo-attacking](https://github.com/AyShakya/Daily_Leetcode/tree/master/0495-teemo-attacking) |
@@ -305,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0227-basic-calculator-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0394-decode-string](https://github.com/AyShakya/Daily_Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/AyShakya/Daily_Leetcode/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/AyShakya/Daily_Leetcode/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/AyShakya/Daily_Leetcode/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/AyShakya/Daily_Leetcode/tree/master/0739-daily-temperatures) |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/AyShakya/Daily_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/AyShakya/Daily_Leetcode/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/AyShakya/Daily_Leetcode/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/AyShakya/Daily_Leetcode/tree/master/0456-132-pattern) |
 | [0503-next-greater-element-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/AyShakya/Daily_Leetcode/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/AyShakya/Daily_Leetcode/tree/master/0937-online-stock-span) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyShakya/Daily_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/AyShakya/Daily_Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/AyShakya/Daily_Leetcode/tree/master/0367-valid-perfect-square) |
+| [0456-132-pattern](https://github.com/AyShakya/Daily_Leetcode/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/AyShakya/Daily_Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AyShakya/Daily_Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/AyShakya/Daily_Leetcode/tree/master/0792-binary-search) |
@@ -441,4 +445,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/AyShakya/Daily_Leetcode/tree/master/0239-sliding-window-maximum) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/AyShakya/Daily_Leetcode/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
