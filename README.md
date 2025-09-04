@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3244-minimize-length-of-array-using-operations](https://github.com/AyShakya/Daily_Leetcode/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/AyShakya/Daily_Leetcode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3321-type-of-triangle](https://github.com/AyShakya/Daily_Leetcode/tree/master/3321-type-of-triangle) |
+| [3830-find-closest-person](https://github.com/AyShakya/Daily_Leetcode/tree/master/3830-find-closest-person) |
 ## Sorting
 |  |
 | ------- |
