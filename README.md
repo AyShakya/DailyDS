@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/AyShakya/Daily_Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/AyShakya/Daily_Leetcode/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/AyShakya/Daily_Leetcode/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/AyShakya/Daily_Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AyShakya/Daily_Leetcode/tree/master/0075-sort-colors) |
 | [0084-largest-rectangle-in-histogram](https://github.com/AyShakya/Daily_Leetcode/tree/master/0084-largest-rectangle-in-histogram) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/AyShakya/Daily_Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/0018-4sum) |
+| [0056-merge-intervals](https://github.com/AyShakya/Daily_Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/AyShakya/Daily_Leetcode/tree/master/0075-sort-colors) |
 | [0229-majority-element-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/AyShakya/Daily_Leetcode/tree/master/0455-assign-cookies) |
