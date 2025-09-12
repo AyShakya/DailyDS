@@ -1,21 +1,10 @@
 class Solution {
     public boolean doesAliceWin(String s) {
-        HashSet<Character> vowels = new HashSet<>(
-            Arrays.asList('A','E','I','O','U','a','e','i','o','u')
-        );
         int n = s.length();
-        int c=0;
         for(int i=0;i<n;i++){
-            char ch = s.charAt(i);
-            if(vowels.contains(ch)){
-                c++;
-            }
+            char c = s.charAt(i);
+            if(c=='a' || c=='e' || c=='i' || c=='o' || c=='u') return true;
         }
-        if(c==0){
-            return false;
-        }
-        else{
-            return true;
-        }
+        return false;
     }
 }
