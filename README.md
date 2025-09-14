@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0434-number-of-segments-in-a-string](https://github.com/AyShakya/Daily_Leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0482-license-key-formatting](https://github.com/AyShakya/Daily_Leetcode/tree/master/0482-license-key-formatting) |
 | [0520-detect-capital](https://github.com/AyShakya/Daily_Leetcode/tree/master/0520-detect-capital) |
+| [0812-rotate-string](https://github.com/AyShakya/Daily_Leetcode/tree/master/0812-rotate-string) |
 | [1006-vowel-spellchecker](https://github.com/AyShakya/Daily_Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/AyShakya/Daily_Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1666-make-the-string-great](https://github.com/AyShakya/Daily_Leetcode/tree/master/1666-make-the-string-great) |
@@ -499,4 +500,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/AyShakya/Daily_Leetcode/tree/master/3462-vowels-game-in-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/AyShakya/Daily_Leetcode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
