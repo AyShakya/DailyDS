@@ -8,23 +8,23 @@ class Solution {
         map.put('C',100);
         map.put('D',500);
         map.put('M',1000);
-        int i=0,sum=0;
-        while(i<s.length()){
-            int x = map.get(s.charAt(i));
-            if(i!=s.length()-1){
-                int y = map.get(s.charAt(i+1));
-                if(x<y){
-                    sum=sum-x;
-                }
-                else{
-                    sum=sum+x;
-                }
+        int total = 0;
+        int prevValue = 0;
+
+        
+        for (int i = s.length() - 1; i >= 0; i--) {
+            int value = map.get(s.charAt(i));
+
+            
+            if (value < prevValue) {
+                total -= value;
+            } else {
+                total += value;
             }
-            else{
-                sum=sum+x;
-            }
-            i++;
+
+            prevValue = value;
         }
-        return sum;
+
+        return total;
     }
 }
