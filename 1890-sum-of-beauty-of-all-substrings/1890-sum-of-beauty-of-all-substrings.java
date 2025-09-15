@@ -1,28 +1,20 @@
 class Solution {
-    public int beauty(String s, int a, int b){
-        int maxA=0, minB=1000;
-        int []k = new int[26];
-        for(int i=a;i<=b;i++){
-            char ch = s.charAt(i);
-            k[ch-'a']++;
-        }
-        for(int i=a;i<=b;i++){
-            char ch = s.charAt(i);
-            if(k[ch-'a']>maxA){
-                maxA=k[ch-'a'];
-            }
-            if(k[ch-'a']<minB){
-                minB=k[ch-'a'];
-            }
-        }
-        return maxA-minB;
-    }
     public int beautySum(String s) {
         int sum=0;
         int n = s.length();
         for(int i=0;i<n;i++){
-            for(int j=i;j<n;j++){
-                sum+=beauty(s, i, j);
+            int[] freq = new int[26]; 
+            for (int j = i; j < n; j++) {
+                char ch = s.charAt(j);
+                freq[ch - 'a']++;
+                int maxFreq = 0, minFreq = Integer.MAX_VALUE;
+                for (int f : freq) {
+                    if (f > 0) { 
+                        maxFreq = Math.max(maxFreq, f);
+                        minFreq = Math.min(minFreq, f);
+                    }
+                }
+                sum += (maxFreq - minFreq);
             }
         }
         return sum;
