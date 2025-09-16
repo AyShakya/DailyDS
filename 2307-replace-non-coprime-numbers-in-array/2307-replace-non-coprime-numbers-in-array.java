@@ -1,5 +1,8 @@
-import java.math.BigInteger;
 class Solution {
+    public static int gcd(int a, int b) {
+        if (b == 0) return a;
+        return gcd(b, a % b);
+    }
     public List<Integer> replaceNonCoprimes(int[] nums) {
         Deque<Integer> dq = new ArrayDeque<>();
         int n = nums.length;
@@ -8,9 +11,9 @@ class Solution {
             while(dq.size()>1){
                 int a = dq.pop();
                 int b = dq.pop();
-                int g = BigInteger.valueOf(a).gcd(BigInteger.valueOf(b)).intValue();
+                int g = gcd(a,b); 
                 if(g>1){
-                    dq.push((a/g) * b);
+                    dq.push((a / g) * b);
                 }
                 else{
                     dq.push(b);
