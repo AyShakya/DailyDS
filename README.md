@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2227-sum-of-subarray-ranges](https://github.com/AyShakya/Daily_Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AyShakya/Daily_Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/AyShakya/Daily_Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/AyShakya/Daily_Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AyShakya/Daily_Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3194-find-words-containing-character](https://github.com/AyShakya/Daily_Leetcode/tree/master/3194-find-words-containing-character) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AyShakya/Daily_Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/AyShakya/Daily_Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AyShakya/Daily_Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/AyShakya/Daily_Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2481-strictly-palindromic-number](https://github.com/AyShakya/Daily_Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/AyShakya/Daily_Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AyShakya/Daily_Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -358,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AyShakya/Daily_Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2128-reverse-prefix-of-word](https://github.com/AyShakya/Daily_Leetcode/tree/master/2128-reverse-prefix-of-word) |
 | [2227-sum-of-subarray-ranges](https://github.com/AyShakya/Daily_Leetcode/tree/master/2227-sum-of-subarray-ranges) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/AyShakya/Daily_Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2573-remove-nodes-from-linked-list](https://github.com/AyShakya/Daily_Leetcode/tree/master/2573-remove-nodes-from-linked-list) |
 ## Monotonic Stack
 |  |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AyShakya/Daily_Leetcode/tree/master/0258-add-digits) |
+| [2307-replace-non-coprime-numbers-in-array](https://github.com/AyShakya/Daily_Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/AyShakya/Daily_Leetcode/tree/master/3244-minimize-length-of-array-using-operations) |
 ## Counting
 |  |
