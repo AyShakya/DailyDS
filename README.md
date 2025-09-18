@@ -249,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AyShakya/Daily_Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/AyShakya/Daily_Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/AyShakya/Daily_Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [3678-design-task-manager](https://github.com/AyShakya/Daily_Leetcode/tree/master/3678-design-task-manager) |
 ## Matrix
 |  |
 | ------- |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/AyShakya/Daily_Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AyShakya/Daily_Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [3678-design-task-manager](https://github.com/AyShakya/Daily_Leetcode/tree/master/3678-design-task-manager) |
 ## Rolling Hash
 |  |
 | ------- |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0155-min-stack](https://github.com/AyShakya/Daily_Leetcode/tree/master/0155-min-stack) |
 | [0937-online-stock-span](https://github.com/AyShakya/Daily_Leetcode/tree/master/0937-online-stock-span) |
+| [3678-design-task-manager](https://github.com/AyShakya/Daily_Leetcode/tree/master/3678-design-task-manager) |
 ## Data Stream
 |  |
 | ------- |
@@ -504,6 +507,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0456-132-pattern](https://github.com/AyShakya/Daily_Leetcode/tree/master/0456-132-pattern) |
 | [0493-reverse-pairs](https://github.com/AyShakya/Daily_Leetcode/tree/master/0493-reverse-pairs) |
+| [3678-design-task-manager](https://github.com/AyShakya/Daily_Leetcode/tree/master/3678-design-task-manager) |
 ## Brainteaser
 |  |
 | ------- |
