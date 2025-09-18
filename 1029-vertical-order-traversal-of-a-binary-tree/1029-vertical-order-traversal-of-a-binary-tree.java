@@ -24,9 +24,11 @@ class Solution {
         }
     }
 
-    public void comp(TreeNode root, Map<Integer, List<Pair>> map, int col, int row) {
+    public void comp(TreeNode root, Map<Integer, PriorityQueue<Pair>> map , int col, int row) {
         if (root != null) {
-            map.putIfAbsent(col, new ArrayList<>());
+            map.computeIfAbsent(col, k -> new PriorityQueue<>(
+                (a,b) -> a.first == b.first ? a.second - b.second : a.first - b.first
+            ));
             map.get(col).add(new Pair(row, root.val));
 
             comp(root.left, map, col - 1, row + 1);
@@ -35,24 +37,15 @@ class Solution {
     }
 
     public List<List<Integer>> verticalTraversal(TreeNode root) {
-        Map<Integer, List<Pair>> map = new HashMap<>();
+        Map<Integer, PriorityQueue<Pair>> map = new TreeMap<>();
         comp(root, map, 0, 0);
-        List<Integer> sorted = new ArrayList<>(map.keySet());
-        Collections.sort(sorted);
         List<List<Integer>> ans = new ArrayList<>();
-        for (int key : sorted) {
-            List<Integer> res = new ArrayList<>();
-            List<Pair> list = map.get(key);
-            list.sort((a, b) -> {
-                if (a.first!=(b.first)) {
-                    return a.first - b.first;
-                }
-                return a.second - b.second;
-            });
-            for (Pair p : list) {
-                res.add(p.second);
+        for(PriorityQueue<Pair> pq : map.values()){
+            List<Integer> cols = new ArrayList<>();
+            while(!pq.isEmpty()){
+                cols.add(pq.poll().second);
             }
-            ans.add(res);
+            ans.add(cols);
         }
         return ans;
     }
