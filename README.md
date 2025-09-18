@@ -184,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AyShakya/Daily_Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/0112-path-sum) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AyShakya/Daily_Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AyShakya/Daily_Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0112-path-sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/AyShakya/Daily_Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AyShakya/Daily_Leetcode/tree/master/0207-course-schedule) |
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/AyShakya/Daily_Leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/0112-path-sum) |
 ## Hash Table
