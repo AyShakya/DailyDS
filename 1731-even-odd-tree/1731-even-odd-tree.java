@@ -23,20 +23,22 @@ class Solution {
         int level = 0;
         while(!dq.isEmpty()){
             int size = dq.size();
-            Integer[] row = new Integer[size];
+            int prev = level%2==0 ? Integer.MIN_VALUE : Integer.MAX_VALUE;
+
             for(int i=0;i<size;i++){
                 TreeNode temp = dq.poll();
-                row[i] = temp.val;
+                int val = temp.val;
                 if(level%2==0){
-                    if((row[i]%2==0) || (i!=0 && row[i-1]>=row[i])){
+                    if((val%2==0) || (val<=prev)){
                         return false;
                     }
                 }
                 else{
-                    if((row[i]%2!=0) || (i!=0 && row[i-1]<=row[i])){
+                    if((val%2!=0) || (val>=prev)){
                         return false;
                     }
                 }
+                prev = val;
                 if(temp.left!=null){
                     dq.offer(temp.left);
                 }
