@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/AyShakya/Daily_Leetcode/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/AyShakya/Daily_Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AyShakya/Daily_Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/AyShakya/Daily_Leetcode/tree/master/0165-compare-version-numbers) |
 | [0168-excel-sheet-column-title](https://github.com/AyShakya/Daily_Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/AyShakya/Daily_Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0187-repeated-dna-sequences](https://github.com/AyShakya/Daily_Leetcode/tree/master/0187-repeated-dna-sequences) |
@@ -318,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/AyShakya/Daily_Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/AyShakya/Daily_Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/AyShakya/Daily_Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0165-compare-version-numbers](https://github.com/AyShakya/Daily_Leetcode/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AyShakya/Daily_Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/AyShakya/Daily_Leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/AyShakya/Daily_Leetcode/tree/master/0287-find-the-duplicate-number) |
