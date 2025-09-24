@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/AyShakya/Daily_Leetcode/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/AyShakya/Daily_Leetcode/tree/master/0205-isomorphic-strings) |
 | [0227-basic-calculator-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/AyShakya/Daily_Leetcode/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/AyShakya/Daily_Leetcode/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/AyShakya/Daily_Leetcode/tree/master/0409-longest-palindrome) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/AyShakya/Daily_Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/AyShakya/Daily_Leetcode/tree/master/0463-island-perimeter) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/AyShakya/Daily_Leetcode/tree/master/0733-flood-fill) |
@@ -220,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AyShakya/Daily_Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/AyShakya/Daily_Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0210-course-schedule-ii) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/AyShakya/Daily_Leetcode/tree/master/0463-island-perimeter) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/AyShakya/Daily_Leetcode/tree/master/0733-flood-fill) |
@@ -237,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0110-balanced-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/0112-path-sum) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -517,6 +522,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/AyShakya/Daily_Leetcode/tree/master/0155-min-stack) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0937-online-stock-span](https://github.com/AyShakya/Daily_Leetcode/tree/master/0937-online-stock-span) |
 | [3678-design-task-manager](https://github.com/AyShakya/Daily_Leetcode/tree/master/3678-design-task-manager) |
 ## Data Stream
