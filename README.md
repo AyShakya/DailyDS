@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2227-sum-of-subarray-ranges](https://github.com/AyShakya/Daily_Leetcode/tree/master/2227-sum-of-subarray-ranges) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AyShakya/Daily_Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AyShakya/Daily_Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/AyShakya/Daily_Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/AyShakya/Daily_Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AyShakya/Daily_Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3194-find-words-containing-character](https://github.com/AyShakya/Daily_Leetcode/tree/master/3194-find-words-containing-character) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/AyShakya/Daily_Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AyShakya/Daily_Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AyShakya/Daily_Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/AyShakya/Daily_Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/AyShakya/Daily_Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/AyShakya/Daily_Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/AyShakya/Daily_Leetcode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -437,6 +439,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/AyShakya/Daily_Leetcode/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/AyShakya/Daily_Leetcode/tree/master/0495-teemo-attacking) |
 | [0735-asteroid-collision](https://github.com/AyShakya/Daily_Leetcode/tree/master/0735-asteroid-collision) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/AyShakya/Daily_Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Number Theory
 |  |
 | ------- |
@@ -501,6 +504,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/AyShakya/Daily_Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3201-distribute-candies-among-children-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Enumeration
 |  |
