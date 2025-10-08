@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AyShakya/Daily_Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2307-replace-non-coprime-numbers-in-array](https://github.com/AyShakya/Daily_Leetcode/tree/master/2307-replace-non-coprime-numbers-in-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AyShakya/Daily_Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/AyShakya/Daily_Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/AyShakya/Daily_Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AyShakya/Daily_Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3194-find-words-containing-character](https://github.com/AyShakya/Daily_Leetcode/tree/master/3194-find-words-containing-character) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AyShakya/Daily_Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AyShakya/Daily_Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/AyShakya/Daily_Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/AyShakya/Daily_Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AyShakya/Daily_Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AyShakya/Daily_Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/AyShakya/Daily_Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AyShakya/Daily_Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2128-reverse-prefix-of-word](https://github.com/AyShakya/Daily_Leetcode/tree/master/2128-reverse-prefix-of-word) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/AyShakya/Daily_Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2481-strictly-palindromic-number](https://github.com/AyShakya/Daily_Leetcode/tree/master/2481-strictly-palindromic-number) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AyShakya/Daily_Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Recursion
@@ -542,6 +545,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AyShakya/Daily_Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AyShakya/Daily_Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1612-avoid-flood-in-the-city](https://github.com/AyShakya/Daily_Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/AyShakya/Daily_Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AyShakya/Daily_Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Design
 |  |
