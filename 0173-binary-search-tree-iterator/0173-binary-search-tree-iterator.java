@@ -25,7 +25,7 @@ class BSTIterator {
     }
     
     public int next() {
-        TreeNode x = stack.poll();
+        TreeNode x = stack.pop();
         int y = x.val;
         if(x.right!=null){
             x=x.right;
