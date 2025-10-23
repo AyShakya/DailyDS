@@ -7,8 +7,7 @@ class Solution {
             sb.append(String.valueOf(sum));
         }
         if(sb.length()!=2){
-            String str = new String(sb);
-            return hasSameDigits(str);
+            return hasSameDigits(sb.toString());
         }
         return sb.charAt(0)==sb.charAt(1);
     }
