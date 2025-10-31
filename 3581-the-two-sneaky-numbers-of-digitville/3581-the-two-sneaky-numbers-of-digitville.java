@@ -14,6 +14,7 @@ class Solution {
                 }
                 else{
                     ans[1] = i;
+                    break;
                 }
             }
         }
