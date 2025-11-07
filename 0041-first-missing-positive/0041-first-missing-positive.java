@@ -1,13 +1,21 @@
 class Solution {
+    public void swap(int []arr, int i, int j){
+        int temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
+    }
     public int firstMissingPositive(int[] nums) {
-        Set<Integer> ar = new HashSet<>();
-        for(int i : nums){
-            ar.add(i);
+        int n = nums.length;
+        for(int i=1;i<n;i++){
+            while(nums[i]>=1 && nums[i]<=n && nums[nums[i]-1] != nums[i]){
+                swap(nums, i, nums[i]-1);
+            }
         }
-        int j = 1;
-        while(ar.contains(j)){
-            j++;
+        for(int i=0;i<n;i++){
+            if(nums[i]!=i+1){
+                return i+1;
+            }
         }
-        return j;
+        return n+1;
     }
 }
