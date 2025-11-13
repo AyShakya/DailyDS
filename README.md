@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2887-sort-vowels-in-a-string](https://github.com/AyShakya/Daily_Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/AyShakya/Daily_Leetcode/tree/master/3194-find-words-containing-character) |
 | [3462-vowels-game-in-a-string](https://github.com/AyShakya/Daily_Leetcode/tree/master/3462-vowels-game-in-a-string) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/AyShakya/Daily_Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AyShakya/Daily_Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AyShakya/Daily_Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Array
@@ -378,6 +379,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AyShakya/Daily_Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3244-minimize-length-of-array-using-operations](https://github.com/AyShakya/Daily_Leetcode/tree/master/3244-minimize-length-of-array-using-operations) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AyShakya/Daily_Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/AyShakya/Daily_Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Two Pointers
 |  |
 | ------- |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2421-maximum-number-of-pairs-in-array](https://github.com/AyShakya/Daily_Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2427-first-letter-to-appear-twice](https://github.com/AyShakya/Daily_Leetcode/tree/master/2427-first-letter-to-appear-twice) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/AyShakya/Daily_Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
+| [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/AyShakya/Daily_Leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
 ## Divide and Conquer
 |  |
 | ------- |
