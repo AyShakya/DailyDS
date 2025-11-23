@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0945-snakes-and-ladders](https://github.com/AyShakya/Daily_Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1006-vowel-spellchecker](https://github.com/AyShakya/Daily_Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyShakya/Daily_Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/AyShakya/Daily_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/AyShakya/Daily_Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AyShakya/Daily_Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AyShakya/Daily_Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/AyShakya/Daily_Leetcode/tree/master/0611-valid-triangle-number) |
 | [0924-fair-candy-swap](https://github.com/AyShakya/Daily_Leetcode/tree/master/0924-fair-candy-swap) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/AyShakya/Daily_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/AyShakya/Daily_Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AyShakya/Daily_Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AyShakya/Daily_Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -361,6 +363,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AyShakya/Daily_Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0943-sum-of-subarray-minimums](https://github.com/AyShakya/Daily_Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/AyShakya/Daily_Leetcode/tree/master/1013-fibonacci-number) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/AyShakya/Daily_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AyShakya/Daily_Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AyShakya/Daily_Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Greedy
@@ -374,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/AyShakya/Daily_Leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/AyShakya/Daily_Leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/AyShakya/Daily_Leetcode/tree/master/0611-valid-triangle-number) |
+| [1262-greatest-sum-divisible-by-three](https://github.com/AyShakya/Daily_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AyShakya/Daily_Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1612-avoid-flood-in-the-city](https://github.com/AyShakya/Daily_Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AyShakya/Daily_Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
