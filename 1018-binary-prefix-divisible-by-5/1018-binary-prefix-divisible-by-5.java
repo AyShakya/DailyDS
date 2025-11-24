@@ -5,8 +5,7 @@ class Solution {
         int num = 0;
         for(int i=0;i<n;i++){
             num = (num*2 + nums[i])%5;
-            if(num%5==0) ans.add(true);
-            else ans.add(false);
+            ans.add(num==0);
         }
         return ans;
     }
