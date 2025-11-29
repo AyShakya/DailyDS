@@ -256,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/AyShakya/Daily_Leetcode/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/AyShakya/Daily_Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/AyShakya/Daily_Leetcode/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0210-course-schedule-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0463-island-perimeter](https://github.com/AyShakya/Daily_Leetcode/tree/master/0463-island-perimeter) |
+| [0547-number-of-provinces](https://github.com/AyShakya/Daily_Leetcode/tree/master/0547-number-of-provinces) |
 | [0662-maximum-width-of-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0733-flood-fill](https://github.com/AyShakya/Daily_Leetcode/tree/master/0733-flood-fill) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/AyShakya/Daily_Leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0210-course-schedule-ii) |
+| [0547-number-of-provinces](https://github.com/AyShakya/Daily_Leetcode/tree/master/0547-number-of-provinces) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AyShakya/Daily_Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AyShakya/Daily_Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Topological Sort
@@ -577,6 +580,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/AyShakya/Daily_Leetcode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/AyShakya/Daily_Leetcode/tree/master/0547-number-of-provinces) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AyShakya/Daily_Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
 ## Combinatorics
 |  |
