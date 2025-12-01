@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/AyShakya/Daily_Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AyShakya/Daily_Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/AyShakya/Daily_Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/AyShakya/Daily_Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/AyShakya/Daily_Leetcode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2159-two-out-of-three](https://github.com/AyShakya/Daily_Leetcode/tree/master/2159-two-out-of-three) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/AyShakya/Daily_Leetcode/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/AyShakya/Daily_Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AyShakya/Daily_Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AyShakya/Daily_Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/AyShakya/Daily_Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AyShakya/Daily_Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2887-sort-vowels-in-a-string](https://github.com/AyShakya/Daily_Leetcode/tree/master/2887-sort-vowels-in-a-string) |
@@ -390,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1262-greatest-sum-divisible-by-three](https://github.com/AyShakya/Daily_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AyShakya/Daily_Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1612-avoid-flood-in-the-city](https://github.com/AyShakya/Daily_Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/AyShakya/Daily_Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/AyShakya/Daily_Leetcode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/AyShakya/Daily_Leetcode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AyShakya/Daily_Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -617,6 +620,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AyShakya/Daily_Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AyShakya/Daily_Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1612-avoid-flood-in-the-city](https://github.com/AyShakya/Daily_Leetcode/tree/master/1612-avoid-flood-in-the-city) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/AyShakya/Daily_Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AyShakya/Daily_Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AyShakya/Daily_Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3619-adjacent-increasing-subarrays-detection-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/3619-adjacent-increasing-subarrays-detection-ii) |
