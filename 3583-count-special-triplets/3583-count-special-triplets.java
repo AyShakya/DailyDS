@@ -3,7 +3,7 @@ class Solution {
         int n = nums.length;
         int MOD = 1_000_000_007;
 
-        int MAX = 200_000;
+        int MAX = 100_000;
         int[] left = new int[MAX + 1];
         int[] right = new int[MAX + 1];
 
