@@ -151,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AyShakya/Daily_Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/AyShakya/Daily_Leetcode/tree/master/3321-type-of-triangle) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AyShakya/Daily_Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/AyShakya/Daily_Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AyShakya/Daily_Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AyShakya/Daily_Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/AyShakya/Daily_Leetcode/tree/master/3531-count-covered-buildings) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3321-type-of-triangle](https://github.com/AyShakya/Daily_Leetcode/tree/master/3321-type-of-triangle) |
 | [3336-water-bottles-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AyShakya/Daily_Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3433-count-mentions-per-user](https://github.com/AyShakya/Daily_Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3462-vowels-game-in-a-string](https://github.com/AyShakya/Daily_Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AyShakya/Daily_Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AyShakya/Daily_Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AyShakya/Daily_Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AyShakya/Daily_Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/AyShakya/Daily_Leetcode/tree/master/3321-type-of-triangle) |
+| [3433-count-mentions-per-user](https://github.com/AyShakya/Daily_Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3531-count-covered-buildings](https://github.com/AyShakya/Daily_Leetcode/tree/master/3531-count-covered-buildings) |
 ## Prefix Sum
 |  |
@@ -540,6 +543,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2211-count-collisions-on-a-road](https://github.com/AyShakya/Daily_Leetcode/tree/master/2211-count-collisions-on-a-road) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/AyShakya/Daily_Leetcode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/3336-water-bottles-ii) |
+| [3433-count-mentions-per-user](https://github.com/AyShakya/Daily_Leetcode/tree/master/3433-count-mentions-per-user) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/AyShakya/Daily_Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/AyShakya/Daily_Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
