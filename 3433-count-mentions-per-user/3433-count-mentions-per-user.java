@@ -1,15 +1,10 @@
 class Solution {
     public int[] countMentions(int n, List<List<String>> events) {
-        events.sort((a, b) -> {
-            int timeA = Integer.parseInt(a.get(1));
-            int timeB = Integer.parseInt(b.get(1));
-            if (timeA != timeB) {
-                return Integer.compare(timeA, timeB);
-            }
-            boolean aIsMessage = a.get(0).equals("MESSAGE");
-            boolean bIsMessage = b.get(0).equals("MESSAGE");
-            return Boolean.compare(aIsMessage, bIsMessage);
-        });
+         events.sort(
+            Comparator
+                .comparingInt((List<String> e) -> Integer.parseInt(e.get(1)))
+                .thenComparingInt(e -> e.get(0).equals("OFFLINE") ? 0 : 1)
+        );
 
         int[] count = new int[n];
         int[] nextOnlineTime = new int[n]; 
