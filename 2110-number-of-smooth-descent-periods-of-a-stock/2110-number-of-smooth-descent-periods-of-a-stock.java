@@ -5,7 +5,7 @@ class Solution {
         int n = p.length;
         for(int i=1;i<n;i++){
             if(p[i]==p[i-1]-1){
-                ++prev;
+                prev++;
             }
             else{
                 prev = 1;
