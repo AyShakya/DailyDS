@@ -158,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/AyShakya/Daily_Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/AyShakya/Daily_Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3531-count-covered-buildings](https://github.com/AyShakya/Daily_Leetcode/tree/master/3531-count-covered-buildings) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/AyShakya/Daily_Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/AyShakya/Daily_Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/AyShakya/Daily_Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/AyShakya/Daily_Leetcode/tree/master/3583-count-special-triplets) |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyShakya/Daily_Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1731-even-odd-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/1731-even-odd-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AyShakya/Daily_Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/AyShakya/Daily_Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1428-jump-game-iii](https://github.com/AyShakya/Daily_Leetcode/tree/master/1428-jump-game-iii) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AyShakya/Daily_Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2121-find-if-path-exists-in-graph](https://github.com/AyShakya/Daily_Leetcode/tree/master/2121-find-if-path-exists-in-graph) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/AyShakya/Daily_Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -410,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AyShakya/Daily_Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/AyShakya/Daily_Leetcode/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/AyShakya/Daily_Leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/AyShakya/Daily_Leetcode/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Greedy
 |  |
 | ------- |
