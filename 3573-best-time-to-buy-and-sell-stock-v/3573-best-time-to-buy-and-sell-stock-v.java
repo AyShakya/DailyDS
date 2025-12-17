@@ -1,10 +1,7 @@
 class Solution {
-
     public long maximumProfit(int[] prices, int k) {
         int n = prices.length;
         long[][][] dp = new long[n][k + 1][3];
-
-        // initialize the state on day 0
         for (int j = 1; j <= k; j++) {
             dp[0][j][1] = -prices[0];
             dp[0][j][2] = prices[0];
