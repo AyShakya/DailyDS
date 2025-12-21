@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/AyShakya/Daily_Leetcode/tree/master/0520-detect-capital) |
 | [0812-rotate-string](https://github.com/AyShakya/Daily_Leetcode/tree/master/0812-rotate-string) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AyShakya/Daily_Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/AyShakya/Daily_Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1078-remove-outermost-parentheses](https://github.com/AyShakya/Daily_Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AyShakya/Daily_Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/AyShakya/Daily_Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AyShakya/Daily_Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0945-snakes-and-ladders](https://github.com/AyShakya/Daily_Leetcode/tree/master/0945-snakes-and-ladders) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1006-vowel-spellchecker](https://github.com/AyShakya/Daily_Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/AyShakya/Daily_Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyShakya/Daily_Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -432,6 +434,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/AyShakya/Daily_Leetcode/tree/master/0409-longest-palindrome) |
 | [0455-assign-cookies](https://github.com/AyShakya/Daily_Leetcode/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/AyShakya/Daily_Leetcode/tree/master/0611-valid-triangle-number) |
+| [0955-delete-columns-to-make-sorted-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AyShakya/Daily_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/AyShakya/Daily_Leetcode/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1612-avoid-flood-in-the-city](https://github.com/AyShakya/Daily_Leetcode/tree/master/1612-avoid-flood-in-the-city) |
