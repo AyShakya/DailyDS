@@ -1,6 +1,5 @@
 class Solution {
     public int minimumBoxes(int[] apple, int[] capacity) {
-        int n = apple.length;
         int m = capacity.length;
         int a = 0;
         for(int i : apple) a+=i;
