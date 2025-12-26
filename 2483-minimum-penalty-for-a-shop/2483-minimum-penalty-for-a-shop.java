@@ -1,23 +1,19 @@
 class Solution {
     public int bestClosingTime(String customers) {
-        int p = 0;
-        int n = customers.length();
-        for (char c : customers.toCharArray()) {
-            if (c == 'Y') p++;
-        }
-        int minPenalty = p;
-        int bestHour = 0;
-        for (int i = 0; i < n; i++) {
-            if (customers.charAt(i) == 'Y') {
-                p--; 
-            } else {
-                p++; 
+        int n=customers.length();
+        int result=0;
+        int customerLeft=0;
+        for(int i=0;i<n;i++){
+            char ch=customers.charAt(i);
+            if(ch=='Y'){
+                customerLeft++;
+                if(customerLeft>0){
+                    result=i+1;
+                    customerLeft=0;
+                }
             }
-            if (p < minPenalty) {
-                minPenalty = p;
-                bestHour = i + 1;
-            }
+            else customerLeft--;
         }
-        return bestHour;
+        return result;
     }
 }
