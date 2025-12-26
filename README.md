@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AyShakya/Daily_Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/AyShakya/Daily_Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2427-first-letter-to-appear-twice](https://github.com/AyShakya/Daily_Leetcode/tree/master/2427-first-letter-to-appear-twice) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/AyShakya/Daily_Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2887-sort-vowels-in-a-string](https://github.com/AyShakya/Daily_Leetcode/tree/master/2887-sort-vowels-in-a-string) |
 | [3194-find-words-containing-character](https://github.com/AyShakya/Daily_Leetcode/tree/master/3194-find-words-containing-character) |
 | [3462-vowels-game-in-a-string](https://github.com/AyShakya/Daily_Leetcode/tree/master/3462-vowels-game-in-a-string) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AyShakya/Daily_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/AyShakya/Daily_Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/AyShakya/Daily_Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/AyShakya/Daily_Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/AyShakya/Daily_Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/AyShakya/Daily_Leetcode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3639-zero-array-transformation-i](https://github.com/AyShakya/Daily_Leetcode/tree/master/3639-zero-array-transformation-i) |
