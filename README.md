@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0745-find-smallest-letter-greater-than-target](https://github.com/AyShakya/Daily_Leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/AyShakya/Daily_Leetcode/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/AyShakya/Daily_Leetcode/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/AyShakya/Daily_Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0924-fair-candy-swap](https://github.com/AyShakya/Daily_Leetcode/tree/master/0924-fair-candy-swap) |
 | [0943-sum-of-subarray-minimums](https://github.com/AyShakya/Daily_Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [0944-delete-columns-to-make-sorted](https://github.com/AyShakya/Daily_Leetcode/tree/master/0944-delete-columns-to-make-sorted) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/AyShakya/Daily_Leetcode/tree/master/0507-perfect-number) |
 | [0633-sum-of-square-numbers](https://github.com/AyShakya/Daily_Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0830-largest-triangle-area](https://github.com/AyShakya/Daily_Leetcode/tree/master/0830-largest-triangle-area) |
+| [0840-magic-squares-in-grid](https://github.com/AyShakya/Daily_Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/AyShakya/Daily_Leetcode/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AyShakya/Daily_Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AyShakya/Daily_Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AyShakya/Daily_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/AyShakya/Daily_Leetcode/tree/master/0575-distribute-candies) |
 | [0756-pyramid-transition-matrix](https://github.com/AyShakya/Daily_Leetcode/tree/master/0756-pyramid-transition-matrix) |
+| [0840-magic-squares-in-grid](https://github.com/AyShakya/Daily_Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0924-fair-candy-swap](https://github.com/AyShakya/Daily_Leetcode/tree/master/0924-fair-candy-swap) |
 | [1006-vowel-spellchecker](https://github.com/AyShakya/Daily_Leetcode/tree/master/1006-vowel-spellchecker) |
@@ -413,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/AyShakya/Daily_Leetcode/tree/master/0200-number-of-islands) |
 | [0463-island-perimeter](https://github.com/AyShakya/Daily_Leetcode/tree/master/0463-island-perimeter) |
 | [0733-flood-fill](https://github.com/AyShakya/Daily_Leetcode/tree/master/0733-flood-fill) |
+| [0840-magic-squares-in-grid](https://github.com/AyShakya/Daily_Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [0945-snakes-and-ladders](https://github.com/AyShakya/Daily_Leetcode/tree/master/0945-snakes-and-ladders) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AyShakya/Daily_Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/AyShakya/Daily_Leetcode/tree/master/2244-number-of-laser-beams-in-a-bank) |
