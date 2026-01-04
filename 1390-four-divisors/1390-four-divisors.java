@@ -18,10 +18,10 @@ class Solution {
         return c==4?sum:0;
     }
     public int sumFourDivisors(int[] nums) {
-        long ans = 0;
+        int ans = 0;
         for(int i : nums){
             ans += four(i);
         }
-        return (int)ans;
+        return ans;
     }
 }
