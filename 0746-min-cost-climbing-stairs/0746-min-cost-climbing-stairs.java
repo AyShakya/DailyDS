@@ -1,17 +1,15 @@
 class Solution {
-    public int f(int n, int[] c, int[] dp){
-        if(dp[n]!=-1) return dp[n];
-        int l = f(n-1, c,dp) + c[n-1];
-        int r = Integer.MAX_VALUE;
-        if(n>1) r = f(n-2,c,dp) + c[n-2];
-        return dp[n] = Math.min(l,r);
-    }   
-    public int minCostClimbingStairs(int[] cost) {
-        int n = cost.length;
+    public int minCostClimbingStairs(int[] c) {
+        int n = c.length;
         int[] dp = new int[n+1];
         Arrays.fill(dp, -1);
         dp[0] = 0;
         dp[1] = 0;
-        return f(n,cost,dp);
+        for(int i=2;i<=n;i++){
+            int l = dp[i-1] + c[i-1];
+            int r = dp[i-2] + c[i-2];
+            dp[i] = Math.min(l,r);
+        }
+        return dp[n];
     }
 }
