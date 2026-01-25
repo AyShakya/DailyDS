@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1612-avoid-flood-in-the-city](https://github.com/AyShakya/Daily_Leetcode/tree/master/1612-avoid-flood-in-the-city) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/AyShakya/Daily_Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AyShakya/Daily_Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AyShakya/Daily_Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/AyShakya/Daily_Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/AyShakya/Daily_Leetcode/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2116-count-number-of-pairs-with-absolute-difference-k](https://github.com/AyShakya/Daily_Leetcode/tree/master/2116-count-number-of-pairs-with-absolute-difference-k) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AyShakya/Daily_Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AyShakya/Daily_Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/AyShakya/Daily_Leetcode/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AyShakya/Daily_Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/AyShakya/Daily_Leetcode/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/AyShakya/Daily_Leetcode/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/AyShakya/Daily_Leetcode/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -598,6 +600,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/AyShakya/Daily_Leetcode/tree/master/0239-sliding-window-maximum) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AyShakya/Daily_Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AyShakya/Daily_Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/AyShakya/Daily_Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Simulation
 |  |
