@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/AyShakya/Daily_Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/AyShakya/Daily_Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyShakya/Daily_Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1200-minimum-absolute-difference](https://github.com/AyShakya/Daily_Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AyShakya/Daily_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/AyShakya/Daily_Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1390-four-divisors](https://github.com/AyShakya/Daily_Leetcode/tree/master/1390-four-divisors) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0611-valid-triangle-number](https://github.com/AyShakya/Daily_Leetcode/tree/master/0611-valid-triangle-number) |
 | [0924-fair-candy-swap](https://github.com/AyShakya/Daily_Leetcode/tree/master/0924-fair-candy-swap) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1200-minimum-absolute-difference](https://github.com/AyShakya/Daily_Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AyShakya/Daily_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/AyShakya/Daily_Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AyShakya/Daily_Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
