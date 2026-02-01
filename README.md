@@ -162,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/AyShakya/Daily_Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2421-maximum-number-of-pairs-in-array](https://github.com/AyShakya/Daily_Leetcode/tree/master/2421-maximum-number-of-pairs-in-array) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/AyShakya/Daily_Leetcode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AyShakya/Daily_Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AyShakya/Daily_Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AyShakya/Daily_Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3194-find-words-containing-character](https://github.com/AyShakya/Daily_Leetcode/tree/master/3194-find-words-containing-character) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/AyShakya/Daily_Leetcode/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2402-meeting-rooms-iii](https://github.com/AyShakya/Daily_Leetcode/tree/master/2402-meeting-rooms-iii) |
 | [2887-sort-vowels-in-a-string](https://github.com/AyShakya/Daily_Leetcode/tree/master/2887-sort-vowels-in-a-string) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AyShakya/Daily_Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/AyShakya/Daily_Leetcode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/AyShakya/Daily_Leetcode/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/AyShakya/Daily_Leetcode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -704,6 +706,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/AyShakya/Daily_Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1925-count-square-sum-triples](https://github.com/AyShakya/Daily_Leetcode/tree/master/1925-count-square-sum-triples) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/AyShakya/Daily_Leetcode/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3201-distribute-candies-among-children-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/3201-distribute-candies-among-children-ii) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/AyShakya/Daily_Leetcode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Binary Search
