@@ -13,9 +13,9 @@ class Solution {
                 }
                 int down = Integer.MAX_VALUE;
                 int right = Integer.MAX_VALUE;
-                if(i-1>=0) down = a[i][j] + dp[j];
-                if(j-1>=0) right = a[i][j] + temp[j-1];
-                temp[j] = Math.min(down, right);
+                if(i-1>=0) down = dp[j];
+                if(j-1>=0) right = temp[j-1];
+                temp[j] = a[i][j] + Math.min(down, right);
             }
             dp = temp;
         }
