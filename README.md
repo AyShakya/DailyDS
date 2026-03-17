@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/AyShakya/Daily_Leetcode/tree/master/0463-island-perimeter) |
 | [0485-max-consecutive-ones](https://github.com/AyShakya/Daily_Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/AyShakya/Daily_Leetcode/tree/master/0493-reverse-pairs) |
+| [0494-target-sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/0494-target-sum) |
 | [0495-teemo-attacking](https://github.com/AyShakya/Daily_Leetcode/tree/master/0495-teemo-attacking) |
 | [0503-next-greater-element-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/AyShakya/Daily_Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -493,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/AyShakya/Daily_Leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/0494-target-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/AyShakya/Daily_Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0943-sum-of-subarray-minimums](https://github.com/AyShakya/Daily_Leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1013-fibonacci-number](https://github.com/AyShakya/Daily_Leetcode/tree/master/1013-fibonacci-number) |
@@ -865,6 +867,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0494-target-sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/0494-target-sum) |
 | [0756-pyramid-transition-matrix](https://github.com/AyShakya/Daily_Leetcode/tree/master/0756-pyramid-transition-matrix) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AyShakya/Daily_Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1980-find-unique-binary-string](https://github.com/AyShakya/Daily_Leetcode/tree/master/1980-find-unique-binary-string) |
