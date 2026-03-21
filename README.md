@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-binary-prefix-divisible-by-5](https://github.com/AyShakya/Daily_Leetcode/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/AyShakya/Daily_Leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1200-minimum-absolute-difference](https://github.com/AyShakya/Daily_Leetcode/tree/master/1200-minimum-absolute-difference) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AyShakya/Daily_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/AyShakya/Daily_Leetcode/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/AyShakya/Daily_Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/AyShakya/Daily_Leetcode/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/AyShakya/Daily_Leetcode/tree/master/0840-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/AyShakya/Daily_Leetcode/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AyShakya/Daily_Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AyShakya/Daily_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1390-four-divisors](https://github.com/AyShakya/Daily_Leetcode/tree/master/1390-four-divisors) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AyShakya/Daily_Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/AyShakya/Daily_Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/AyShakya/Daily_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [1208-get-equal-substrings-within-budget](https://github.com/AyShakya/Daily_Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AyShakya/Daily_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/AyShakya/Daily_Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/AyShakya/Daily_Leetcode/tree/master/1930-unique-length-3-palindromic-subsequences) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/AyShakya/Daily_Leetcode/tree/master/2483-minimum-penalty-for-a-shop) |
@@ -435,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1006-vowel-spellchecker](https://github.com/AyShakya/Daily_Leetcode/tree/master/1006-vowel-spellchecker) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/AyShakya/Daily_Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/AyShakya/Daily_Leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AyShakya/Daily_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AyShakya/Daily_Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/AyShakya/Daily_Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AyShakya/Daily_Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -663,6 +667,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/AyShakya/Daily_Leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [1208-get-equal-substrings-within-budget](https://github.com/AyShakya/Daily_Leetcode/tree/master/1208-get-equal-substrings-within-budget) |
+| [1248-count-number-of-nice-subarrays](https://github.com/AyShakya/Daily_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AyShakya/Daily_Leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/AyShakya/Daily_Leetcode/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/AyShakya/Daily_Leetcode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
