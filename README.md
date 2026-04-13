@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/AyShakya/Daily_Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/AyShakya/Daily_Leetcode/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/AyShakya/Daily_Leetcode/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1436-destination-city](https://github.com/AyShakya/Daily_Leetcode/tree/master/1436-destination-city) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/AyShakya/Daily_Leetcode/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1666-make-the-string-great](https://github.com/AyShakya/Daily_Leetcode/tree/master/1666-make-the-string-great) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/AyShakya/Daily_Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/AyShakya/Daily_Leetcode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/AyShakya/Daily_Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1428-jump-game-iii](https://github.com/AyShakya/Daily_Leetcode/tree/master/1428-jump-game-iii) |
+| [1436-destination-city](https://github.com/AyShakya/Daily_Leetcode/tree/master/1436-destination-city) |
 | [1463-the-k-weakest-rows-in-a-matrix](https://github.com/AyShakya/Daily_Leetcode/tree/master/1463-the-k-weakest-rows-in-a-matrix) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AyShakya/Daily_Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1570-final-prices-with-a-special-discount-in-a-shop](https://github.com/AyShakya/Daily_Leetcode/tree/master/1570-final-prices-with-a-special-discount-in-a-shop) |
@@ -458,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1248-count-number-of-nice-subarrays](https://github.com/AyShakya/Daily_Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1264-maximum-number-of-words-you-can-type](https://github.com/AyShakya/Daily_Leetcode/tree/master/1264-maximum-number-of-words-you-can-type) |
 | [1353-find-resultant-array-after-removing-anagrams](https://github.com/AyShakya/Daily_Leetcode/tree/master/1353-find-resultant-array-after-removing-anagrams) |
+| [1436-destination-city](https://github.com/AyShakya/Daily_Leetcode/tree/master/1436-destination-city) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/AyShakya/Daily_Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1590-make-sum-divisible-by-p](https://github.com/AyShakya/Daily_Leetcode/tree/master/1590-make-sum-divisible-by-p) |
 | [1612-avoid-flood-in-the-city](https://github.com/AyShakya/Daily_Leetcode/tree/master/1612-avoid-flood-in-the-city) |
