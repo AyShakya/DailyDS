@@ -133,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/AyShakya/Daily_Leetcode/tree/master/0495-teemo-attacking) |
 | [0503-next-greater-element-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0518-coin-change-ii) |
+| [0523-continuous-subarray-sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AyShakya/Daily_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/AyShakya/Daily_Leetcode/tree/master/0575-distribute-candies) |
 | [0611-valid-triangle-number](https://github.com/AyShakya/Daily_Leetcode/tree/master/0611-valid-triangle-number) |
@@ -250,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/AyShakya/Daily_Leetcode/tree/master/0415-add-strings) |
 | [0492-construct-the-rectangle](https://github.com/AyShakya/Daily_Leetcode/tree/master/0492-construct-the-rectangle) |
 | [0507-perfect-number](https://github.com/AyShakya/Daily_Leetcode/tree/master/0507-perfect-number) |
+| [0523-continuous-subarray-sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/AyShakya/Daily_Leetcode/tree/master/0633-sum-of-square-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/AyShakya/Daily_Leetcode/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/AyShakya/Daily_Leetcode/tree/master/0830-largest-triangle-area) |
@@ -335,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/AyShakya/Daily_Leetcode/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AyShakya/Daily_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/AyShakya/Daily_Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/0930-binary-subarrays-with-sum) |
@@ -453,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AyShakya/Daily_Leetcode/tree/master/0229-majority-element-ii) |
 | [0409-longest-palindrome](https://github.com/AyShakya/Daily_Leetcode/tree/master/0409-longest-palindrome) |
 | [0451-sort-characters-by-frequency](https://github.com/AyShakya/Daily_Leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0523-continuous-subarray-sum](https://github.com/AyShakya/Daily_Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/AyShakya/Daily_Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0575-distribute-candies](https://github.com/AyShakya/Daily_Leetcode/tree/master/0575-distribute-candies) |
 | [0756-pyramid-transition-matrix](https://github.com/AyShakya/Daily_Leetcode/tree/master/0756-pyramid-transition-matrix) |
